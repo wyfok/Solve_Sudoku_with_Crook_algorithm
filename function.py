@@ -12,7 +12,7 @@ def check_row(possible_value_, solution_):
     :param possible_value_: the dict of storing all possible numbers of each cell
     :param solution_: the list of existing solution
     Based on Sudoku rule, check for each row and see if there is an unique possible number across a row.
-    If so, update the possible_value_ and solution.
+    If so, update the possible_value_ and solution_.
     """
     for i in range(1, 10):
         exist = solution_[i - 1]
