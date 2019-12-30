@@ -218,7 +218,6 @@ def loop_algorithm(possible_value_, solution_):
 def check_box_eliminate_others(possible_value_):
     """
     :param possible_value_: the dict of storing all possible numbers of each cell
-    Extra part, not included in Crook's algorithm.
     By considering the possible numbers within a box, check if there is a possible number only in one row/column.
     If so, then in the same row/column outside the box, this possible number will be eliminated from all markup.
     """

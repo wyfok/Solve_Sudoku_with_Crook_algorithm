@@ -1,7 +1,7 @@
 from function import read_question_from_excel, loop_basic_rule, loop_algorithm, check_box_eliminate_others
 import copy
 
-# Input excel file name and sheet name
+# Input excel file path and sheet name
 excel_path = input("Input the file path of excel file: ")
 sheet_name = input("Input the sheet name: ")
 question = read_question_from_excel(excel_path, sheet_name)
