@@ -6,7 +6,8 @@ The question of Sudoku should be saved in an excel file. The range of the input 
 After running main.py, the file path and sheet name of the excel file are asked to input. Then the result is printed, whether a solution is found or not. 
 
 
-Medium Post 
+Medium Post:
+
 https://medium.com/@wyfok/solve-sudoku-more-elegantly-with-crooks-algorithm-in-python-5f819d371813
 
 Reference: 
