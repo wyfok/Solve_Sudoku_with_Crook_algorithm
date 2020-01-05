@@ -14,3 +14,6 @@ Reference:
 
 http://pi.math.cornell.edu/~mec/Summer2009/meerkamp/Site/Solving_any_Sudoku_II.html
 http://www.ams.org/notices/200904/rtx090400460p.pdf
+
+
+![alt text](https://miro.medium.com/max/459/1*PvEMV6KNIh5rWA4WHeyLKw.png)
